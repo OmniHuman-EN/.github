@@ -11,10 +11,7 @@
 </div>
 
 <div align="center">
-  <h2 style="color: purple;">⬇️ Official Repository - OmniHuman</h2>
-  <a href="https://omnihumani.com">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200" height="45" alt="OmniHuman GitHub">
-  </a>
+  <h2 style="color: purple;">https://omnihumani.com
 </div>
 
 ## 🎯 About OmniHuman
